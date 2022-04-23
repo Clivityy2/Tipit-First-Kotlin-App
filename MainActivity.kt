@@ -74,5 +74,3 @@ class MainActivity : AppCompatActivity() {
         tvTotalAmount.text = "%.2f".format(totalAmount) //number can only be 2 decimal places because we are using currency
     }
 }
-
-/* Up to 20:50  https://www.youtube.com/watch?v=FjrKMcnKahY */
